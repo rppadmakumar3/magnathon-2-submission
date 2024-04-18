@@ -33,3 +33,6 @@ To set up SustainHub on your local machine, follow these steps:
 5. Then move to client and server folder and run `yarn dev` or `npm start`
 6. Install dependencies using `npm install`.
 7. Configure environment variables in the `.env` file.
+
+## 📹 Demo Video
+[![Demo Video](https://drive.google.com/uc?id=1ujVkRLEuP1CSLFwjLcPWHsD7CvKEEiD4)](https://drive.google.com/file/d/1ujVkRLEuP1CSLFwjLcPWHsD7CvKEEiD4/view?usp=sharing)
