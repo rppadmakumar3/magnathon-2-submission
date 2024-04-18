@@ -57,6 +57,9 @@ npm install
 npm start
 ```
 
-![Screenshot 2024-04-18 120416](https://github.com/rppadmakumar3/magnathon-2-submission/assets/116913142/ef5efc6f-d4cb-43ee-b9cb-5202e48494ac)
+## Demo Video
 
-[Click here to watch the demo video](https://drive.google.com/file/d/1ujVkRLEuP1CSLFwjLcPWHsD7CvKEEiD4/view?usp=sharing)
+https://github.com/rppadmakumar3/magnathon-2-submission/assets/116913142/f727ca9e-8cd4-4e51-934d-8042c4f019c3
+
+
+
