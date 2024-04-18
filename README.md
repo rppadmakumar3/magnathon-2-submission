@@ -10,14 +10,6 @@ SustainHub is a revolutionizing waste management platform that harnesses the pow
 ## 🌟 Workflow
 ![OneAPI - SkillUpNow (8)](https://github.com/rppadmakumar3/magnathon-2-submission/assets/116913142/2cb5e027-1057-4651-8ffd-e7cbadf1cc2e)
 
-## 🎥 Product Walkthrough
-Explore our [product walkthrough video](link_to_video) for a detailed demonstration of SustainHub's features and capabilities. You can also find our presentation slides in the repository.
-
-## 🛠️ How it Works
-SustainHub operates by leveraging blockchain technology for transparent waste tracking, AI algorithms for route optimization, and a bidding system for fair waste collection. Watch our project demo video below to see SustainHub in action!
-
-[![SustainHub Demo](video_embed_link_here)](link_to_video)
-
 ## 📚 Libraries Used
 - React - v18.2.0
 - Express - v4.17.1
